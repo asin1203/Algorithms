@@ -11,6 +11,6 @@ These are the engines of Machine Learning.
   - [Pandas](./IMPORTANT_PYTHON_LIBRARIES/pandas.md)
   - [Scikit-learn](./IMPORTANT_PYTHON_LIBRARIES/Scikit-learn.md)
   - [Scipy](./IMPORTANT_PYTHON_LIBRARIES/SciPy.md)
- - [Regression](./Regression/Regression.md)
+- [Regression](./Regression/Regression.md)
   - [Linear Regression](./Regression/LinearRegression/LinearRegression.md)
 
