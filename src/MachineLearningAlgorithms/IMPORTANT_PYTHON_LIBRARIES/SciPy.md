@@ -1,4 +1,4 @@
-# 3. SciPy
+# 5. SciPy
 
 The scipy package contains various toolboxes dedicated to common issues in scientific computing. Its different submodules correspond to different applications, such as interpolation, integration, optimization, image processing, statistics, special functions, etc.
 
