@@ -13,4 +13,5 @@ These are the engines of Machine Learning.
   - [Scipy](./IMPORTANT_PYTHON_LIBRARIES/SciPy.md)
 - [Regression](./Regression/Regression.md)
   - [Linear Regression](./Regression/LinearRegression/LinearRegression.md)
+  - [Decision Tree Regression](./Regression/DecisionTreeRegresssion/DecisionTreeRegression.md)
 
