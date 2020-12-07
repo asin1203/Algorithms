@@ -43,3 +43,4 @@
     - [Scipy](./MachineLearningAlgorithms/IMPORTANT_PYTHON_LIBRARIES/SciPy.md)
   - [Regression](./MachineLearningAlgorithms/Regression/Regression.md)
     - [Linear Regression](./MachineLearningAlgorithms/Regression/LinearRegression/LinearRegression.md)
+    - [Decision Tree Regression](./MachineLearningAlgorithms/Regression/DecisionTreeRegresssion/DecisionTreeRegression.md)
