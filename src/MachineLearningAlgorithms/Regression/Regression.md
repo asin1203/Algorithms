@@ -7,3 +7,4 @@ These are the used to predict a continuous value.
 ## Topics Covered
 
 - [Linear Regression](./LinearRegression/LinearRegression.md)
+- [Decision Tree Regression](./DecisionTreeRegresssion/DecisionTreeRegression.md)
